@@ -1,1 +1,1 @@
-# Preparaciónn-de-datos-para-ML
+# Preparación de datos para ML
